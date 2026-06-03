@@ -1,2 +1,29 @@
 # WeatherApp
-Weather App is a responsive web application built using HTML, CSS, and JavaScript that fetches real-time weather information from the OpenWeatherMap API. Users can enter a city name to view the current temperature, humidity, weather condition, and weather icon. The project demonstrates API integration, Fetch API usage, JSON data parsing, asynchronous programming, and dynamic DOM manipulation while providing a clean and user-friendly interface.
+
+A simple Weather App built using HTML, CSS, JavaScript, and the OpenWeatherMap API.
+
+## Features
+
+- Search weather by city name
+- Current temperature
+- Humidity information
+- Weather condition
+- Clean and responsive UI
+- API integration using Fetch API
+
+## Screenshots
+
+### Home Page
+
+![Weather App Home](weather1.png)
+
+### Weather Result
+
+![Weather App Result](weather2.png)
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- OpenWeatherMap API
