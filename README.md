@@ -15,11 +15,11 @@ A simple Weather App built using HTML, CSS, JavaScript, and the OpenWeatherMap A
 
 ### Home Page
 
-![Weather App Home](weather1.png)
+![Weather App Home](images/weather1.png)
 
 ### Weather Result
 
-![Weather App Result](weather2.png)
+![Weather App Result](images/weather2.png)
 
 ## Technologies Used
 
