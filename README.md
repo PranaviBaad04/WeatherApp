@@ -13,7 +13,7 @@ A simple Weather App built using HTML, CSS, JavaScript, and the OpenWeatherMap A
 
 ## Screenshots
 
-### Home Page
+### Weather Result
 
 ![Weather App Home](images/weather1.png)
 
